@@ -13,16 +13,16 @@ I worked with an e-commerce schema containing four related tables:
 ## Database
 - <a href="https://github.com/VidyavaVidyavati/SQL-for-Data-Analysis/blob/main/SQL%20database.sql">Database</a>
 
-## SQL Query
-- <a href="https://github.com/VidyavaVidyavati/SQL-for-Data-Analysis/blob/main/SQL%20Query.sql">Queries</a>
-
-Using this dataset, you will:
+Using this database, you will:
 - Filter and sort data (e.g. list customers in a given state, products under a price threshold).
 - Combine tables via INNER and LEFT JOINs to see which customers placed which orders, and what products they bought.
 - Summarize using aggregate functions (SUM, AVG) and GROUP BY to compute totals and averages.
 - Nest queries with subqueries to answer questions like “Which customers have orders above $2,000?”
 - Encapsulate logic in a VIEW to produce a reusable customer-order summary.
 - Optimize performance by adding indexes on frequently joined columns.
+
+## SQL Query
+- <a href="https://github.com/VidyavaVidyavati/SQL-for-Data-Analysis/blob/main/SQL%20Query.sql">Queries</a>
 
 ## 🎯Learning Outcomes
 - Writing basic and advanced SQL queries.
